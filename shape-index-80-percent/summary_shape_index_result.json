@@ -1,0 +1,593 @@
+{
+  "interactive-discover-1": {
+    "v0": {
+      "n_results": 6,
+      "n_http_requests": 84,
+      "execution_time": {
+        "average": 4490.388509699999,
+        "min": 4157.582896000007,
+        "max": 4780.352146999998,
+        "std": 237.8280534505022
+      }
+    },
+    "v1": {
+      "n_results": 4,
+      "n_http_requests": 15,
+      "execution_time": {
+        "average": 339.3114543000003,
+        "min": 326.39922400000796,
+        "max": 368.89494499999273,
+        "std": 12.930681622726352
+      }
+    },
+    "v2": {
+      "n_results": 1,
+      "n_http_requests": 38,
+      "execution_time": {
+        "average": 1131.8817897000001,
+        "min": 1032.1120470000023,
+        "max": 1209.5128169999953,
+        "std": 65.10200216502336
+      }
+    },
+    "v3": {
+      "n_results": 14,
+      "n_http_requests": 29,
+      "execution_time": {
+        "average": 753.707032199997,
+        "min": 715.6747509999987,
+        "max": 799.0332350000099,
+        "std": 27.730202807743108
+      }
+    },
+    "v4": {
+      "n_results": 8,
+      "n_http_requests": 145,
+      "execution_time": {
+        "average": 6044.712905799999,
+        "min": 5553.37419100001,
+        "max": 6431.066271000003,
+        "std": 332.6973135143819
+      }
+    }
+  },
+  "interactive-discover-2": {
+    "v0": {
+      "n_results": 6,
+      "n_http_requests": 84,
+      "execution_time": {
+        "average": 4948.8126637,
+        "min": 4612.1442319999915,
+        "max": 5348.125163000004,
+        "std": 193.72677489995147
+      }
+    },
+    "v1": {
+      "n_results": 4,
+      "n_http_requests": 15,
+      "execution_time": {
+        "average": 356.78642100000144,
+        "min": 346.3708079999924,
+        "max": 381.7640500000125,
+        "std": 8.618347187730263
+      }
+    },
+    "v2": {
+      "n_results": 31,
+      "n_http_requests": 16,
+      "execution_time": {
+        "average": 744.4626738000006,
+        "min": 718.9476319999958,
+        "max": 769.9307919999992,
+        "std": 22.35144886140593
+      }
+    },
+    "v3": {
+      "n_results": 198,
+      "n_http_requests": 214,
+      "execution_time": {
+        "average": 5770.839099799999,
+        "min": 5175.7990160000045,
+        "max": 6062.717820999998,
+        "std": 260.26309123842304
+      }
+    },
+    "v4": {
+      "n_results": 90,
+      "n_http_requests": 62,
+      "execution_time": {
+        "average": 1998.0726515999982,
+        "min": 1855.7067339999921,
+        "max": 2085.600022999992,
+        "std": 76.40731155754968
+      }
+    }
+  },
+  "interactive-discover-3": {
+    "v0": {
+      "n_results": 24,
+      "n_http_requests": 165,
+      "execution_time": {
+        "average": 3071.1241436000028,
+        "min": 2848.570034000004,
+        "max": 3461.329039000004,
+        "std": 192.80759964167538
+      }
+    },
+    "v1": {
+      "n_results": 22,
+      "n_http_requests": 98,
+      "execution_time": {
+        "average": 1278.373431299998,
+        "min": 1159.1254199999967,
+        "max": 1431.5578250000108,
+        "std": 64.65601902585826
+      }
+    },
+    "v2": {
+      "n_results": 49,
+      "n_http_requests": 66,
+      "execution_time": {
+        "average": 1150.4000844000009,
+        "min": 1037.1873529999866,
+        "max": 1258.7036159999989,
+        "std": 87.65876544348936
+      }
+    },
+    "v3": {
+      "n_results": 203,
+      "n_http_requests": 420,
+      "execution_time": {
+        "average": 6467.978731500001,
+        "min": 5943.253438,
+        "max": 6968.534979999997,
+        "std": 349.9694762695593
+      }
+    },
+    "v4": {
+      "n_results": 111,
+      "n_http_requests": 175,
+      "execution_time": {
+        "average": 2282.5925556,
+        "min": 2111.579469000004,
+        "max": 2519.5447520000016,
+        "std": 152.29158543316018
+      }
+    }
+  },
+  "interactive-discover-4": {
+    "v0": {
+      "n_results": 5,
+      "n_http_requests": 164,
+      "execution_time": {
+        "average": 5274.998877499999,
+        "min": 4699.367073000001,
+        "max": 5760.168744999988,
+        "std": 316.93879919921824
+      }
+    },
+    "v1": {
+      "n_results": 3,
+      "n_http_requests": 43,
+      "execution_time": {
+        "average": 1209.8654655999985,
+        "min": 1140.7901960000017,
+        "max": 1251.0767359999882,
+        "std": 35.79609846085434
+      }
+    },
+    "v2": {
+      "n_results": 3,
+      "n_http_requests": 20,
+      "execution_time": {
+        "average": 682.8644634999976,
+        "min": 643.9736919999996,
+        "max": 729.1861570000037,
+        "std": 26.957913325054754
+      }
+    },
+    "v3": {
+      "n_results": 3,
+      "n_http_requests": 201,
+      "execution_time": {
+        "average": 4332.540730999999,
+        "min": 4011.4894159999967,
+        "max": 4727.109173000004,
+        "std": 216.21750084774277
+      }
+    },
+    "v4": {
+      "n_results": 7,
+      "n_http_requests": 70,
+      "execution_time": {
+        "average": 1707.7671258000003,
+        "min": 1604.673668000003,
+        "max": 1920.2767750000057,
+        "std": 76.30382832386971
+      }
+    }
+  },
+  "interactive-discover-5": {
+    "v0": {
+      "n_results": 11,
+      "n_http_requests": 84,
+      "execution_time": {
+        "average": 2238.4732648000004,
+        "min": 1854.5977310000017,
+        "max": 2566.5737789999985,
+        "std": 301.08348737766516
+      }
+    },
+    "v1": {
+      "n_results": 1,
+      "n_http_requests": 15,
+      "execution_time": {
+        "average": 274.87744039999814,
+        "min": 267.12615499999083,
+        "max": 290.1372890000057,
+        "std": 8.865252149541442
+      }
+    },
+    "v2": {
+      "n_results": 3,
+      "n_http_requests": 16,
+      "execution_time": {
+        "average": 366.7082945999966,
+        "min": 353.66973500000313,
+        "max": 375.4294779999909,
+        "std": 9.30558393729833
+      }
+    },
+    "v3": {
+      "n_results": 4,
+      "n_http_requests": 214,
+      "execution_time": {
+        "average": 3330.7024991999992,
+        "min": 3163.7741820000083,
+        "max": 3633.4710259999993,
+        "std": 169.38598152029405
+      }
+    },
+    "v4": {
+      "n_results": 8,
+      "n_http_requests": 62,
+      "execution_time": {
+        "average": 893.8595906999966,
+        "min": 826.7515060000005,
+        "max": 1063.5046969999967,
+        "std": 38.862267123420374
+      }
+    }
+  },
+  "interactive-discover-6": {
+    "v0": {
+      "timeout": 120000
+    },
+    "v1": {
+      "n_results": 1,
+      "n_http_requests": 39,
+      "execution_time": {
+        "average": 1134.9676695000003,
+        "min": 1060.2504100000078,
+        "max": 1176.7214959999983,
+        "std": 39.60158466581338
+      }
+    },
+    "v2": {
+      "n_results": 1,
+      "n_http_requests": 38,
+      "execution_time": {
+        "average": 955.3845022000023,
+        "min": 887.9665760000062,
+        "max": 1004.0766230000008,
+        "std": 37.41839449015529
+      }
+    },
+    "v3": {
+      "timeout": 120000
+    },
+    "v4": {
+      "n_results": 27,
+      "n_http_requests": 145,
+      "execution_time": {
+        "average": 5944.897192800001,
+        "min": 5611.902199000004,
+        "max": 6291.134076000002,
+        "std": 302.75684526110837
+      }
+    }
+  },
+  "interactive-discover-7": {
+    "v0": {
+      "timeout": 120000
+    },
+    "v1": {
+      "n_results": 1,
+      "n_http_requests": 39,
+      "execution_time": {
+        "average": 1130.2436061000014,
+        "min": 1082.2726830000029,
+        "max": 1208.231620999999,
+        "std": 42.35392680251102
+      }
+    },
+    "v2": {
+      "n_results": 1,
+      "n_http_requests": 38,
+      "execution_time": {
+        "average": 998.2178448999999,
+        "min": 914.0278510000062,
+        "max": 1036.08576300001,
+        "std": 35.800625148607615
+      }
+    },
+    "v3": {
+      "timeout": 120000
+    },
+    "v4": {
+      "n_results": 1,
+      "n_http_requests": 145,
+      "execution_time": {
+        "average": 6353.411492900003,
+        "min": 5987.504510000013,
+        "max": 6758.329614000002,
+        "std": 281.4076097017555
+      }
+    }
+  },
+  "interactive-discover-8": {
+    "v0": {
+      "timeout": 120000
+    },
+    "v1": {
+      "timeout": 120000
+    },
+    "v2": {
+      "timeout": 120000
+    },
+    "v3": {
+      "timeout": 120000
+    },
+    "v4": {
+      "timeout": 120000
+    }
+  },
+  "interactive-short-1": {
+    "v0": {
+      "n_results": 1,
+      "n_http_requests": 14,
+      "execution_time": {
+        "average": 309.6264755000011,
+        "min": 294.837835000013,
+        "max": 328.9844880000019,
+        "std": 11.197335868112157
+      }
+    },
+    "v1": {
+      "n_results": 1,
+      "n_http_requests": 14,
+      "execution_time": {
+        "average": 301.798717399998,
+        "min": 295.9690389999887,
+        "max": 307.9803889999894,
+        "std": 6.886261076292436
+      }
+    },
+    "v2": {
+      "n_results": 1,
+      "n_http_requests": 16,
+      "execution_time": {
+        "average": 352.8535189999995,
+        "min": 334.3699429999979,
+        "max": 368.9983959999954,
+        "std": 12.381459568167365
+      }
+    },
+    "v3": {
+      "n_results": 1,
+      "n_http_requests": 225,
+      "execution_time": {
+        "average": 3375.5969968000004,
+        "min": 3242.0615640000033,
+        "max": 3511.4642810000078,
+        "std": 88.37763357683683
+      }
+    },
+    "v4": {
+      "n_results": 1,
+      "n_http_requests": 16,
+      "execution_time": {
+        "average": 360.53938599999964,
+        "min": 341.13821999999345,
+        "max": 390.4909250000055,
+        "std": 12.64610620868668
+      }
+    }
+  },
+  "interactive-short-2": {
+    "v0": {
+      "n_results": 10,
+      "n_http_requests": 85,
+      "execution_time": {
+        "average": 9677.7841706,
+        "min": 8441.175141,
+        "max": 13044.211127000002,
+        "std": 1269.0367901798847
+      }
+    },
+    "v1": {
+      "n_results": 4,
+      "n_http_requests": 16,
+      "execution_time": {
+        "average": 828.9649362000025,
+        "min": 791.594345999998,
+        "max": 867.1490349999949,
+        "std": 25.847094716005568
+      }
+    },
+    "v2": {
+      "timeout": 120000
+    },
+    "v3": {
+      "timeout": 120000
+    },
+    "v4": {
+      "timeout": 120000
+    }
+  },
+  "interactive-short-3": {
+    "v0": {
+      "timeout": 120000
+    },
+    "v1": {
+      "timeout": 120000
+    },
+    "v2": {
+      "timeout": 120000
+    },
+    "v3": {
+      "timeout": 120000
+    },
+    "v4": {
+      "timeout": 120000
+    }
+  },
+  "interactive-short-4": {
+    "v0": {
+      "n_results": 1,
+      "n_http_requests": 16,
+      "execution_time": {
+        "average": 702.4525112999996,
+        "min": 667.7612689999951,
+        "max": 757.5803310000047,
+        "std": 30.49778537480813
+      }
+    },
+    "v1": {
+      "n_results": 1,
+      "n_http_requests": 16,
+      "execution_time": {
+        "average": 758.4508291999998,
+        "min": 713.0267539999913,
+        "max": 809.2596170000033,
+        "std": 37.546634904393315
+      }
+    },
+    "v2": {
+      "n_results": 1,
+      "n_http_requests": 17,
+      "execution_time": {
+        "average": 262.00915250000105,
+        "min": 250.38699900000938,
+        "max": 286.3933560000005,
+        "std": 10.729579503018009
+      }
+    },
+    "v3": {
+      "n_results": 1,
+      "n_http_requests": 14,
+      "execution_time": {
+        "average": 254.65768540000136,
+        "min": 241.37741500000993,
+        "max": 274.57078999999794,
+        "std": 12.801367890917557
+      }
+    },
+    "v4": {
+      "n_results": 1,
+      "n_http_requests": 15,
+      "execution_time": {
+        "average": 645.0519060000006,
+        "min": 603.2461239999975,
+        "max": 681.2497950000106,
+        "std": 26.40368034130869
+      }
+    }
+  },
+  "interactive-short-5": {
+    "v0": {
+      "n_results": 1,
+      "n_http_requests": 15,
+      "execution_time": {
+        "average": 528.2427001000003,
+        "min": 509.58988600000157,
+        "max": 548.0465079999994,
+        "std": 14.2880319184435
+      }
+    },
+    "v1": {
+      "n_results": 1,
+      "n_http_requests": 18,
+      "execution_time": {
+        "average": 838.7596696000022,
+        "min": 799.2814040000085,
+        "max": 877.9857740000007,
+        "std": 30.42629140673573
+      }
+    },
+    "v2": {
+      "n_results": 1,
+      "n_http_requests": 18,
+      "execution_time": {
+        "average": 1819.6083111,
+        "min": 1689.4117780000088,
+        "max": 1918.2776799999992,
+        "std": 80.96720588816251
+      }
+    },
+    "v3": {
+      "n_results": 1,
+      "n_http_requests": 19,
+      "execution_time": {
+        "average": 371.9472422999999,
+        "min": 357.24029000000155,
+        "max": 404.49334999998973,
+        "std": 15.126533973162504
+      }
+    },
+    "v4": {
+      "n_results": 0,
+      "n_http_requests": 40,
+      "execution_time": {
+        "average": 1048.522313800003,
+        "min": 992.1880930000043,
+        "max": 1103.7317509999993,
+        "std": 37.580989772384235
+      }
+    }
+  },
+  "interactive-short-6": {
+    "v0": {
+      "timeout": 120000
+    },
+    "v1": {
+      "timeout": 120000
+    },
+    "v2": {
+      "timeout": 120000
+    },
+    "v3": {
+      "timeout": 120000
+    },
+    "v4": {
+      "timeout": 120000
+    }
+  },
+  "interactive-short-7": {
+    "v0": {
+      "timeout": 120000
+    },
+    "v1": {
+      "timeout": 120000
+    },
+    "v2": {
+      "timeout": 120000
+    },
+    "v3": {
+      "timeout": 120000
+    },
+    "v4": {
+      "timeout": 120000
+    }
+  }
+}
